@@ -1,4 +1,4 @@
-<h1 align="center" style="color:blue">Hi 👋, I'm Gehad Alaa</h1>
+<h1 align="center" style="color:blue;">Hi 👋, I'm Gehad Alaa</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 
