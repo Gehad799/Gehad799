@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gehad Alaa</h1>
+<h1 align="center" style="color:blue">Hi 👋, I'm Gehad Alaa</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gehad799&label=Profile%20views&color=0e75b6&style=flat" alt="gehad799" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gehad_alaa_" target="blank"><img src="https://img.shields.io/twitter/follow/gehad_alaa_?logo=twitter&style=for-the-badge" alt="gehad_alaa_" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
